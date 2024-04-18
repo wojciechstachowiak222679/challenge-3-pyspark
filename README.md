@@ -2,11 +2,15 @@
 Learning basics of pyspark as a week 9-10 challenge
 
 ## Project scope
-There is no specific goal to this project like building a solution or the best something. The goal is to understand PySpark better and start being somewhat productive with it. This means at least:
-- SparkSession config basic options
+There is no specific goal to this project like building a solution or the best something. The goal is to understand PySpark better and start being somewhat productive with it. This means learning the basics of:
+- SparkSession config basic options (most of them were not used as they allow connections with more services I have not used)
 - loading + saving data
 - DataFrame API
 - aggregations
+- pivoting
+- UDFs (user defined functions)
+- more advanced aggregations like rollup, cube etc.
+- window functions
 - Spark SQL
 
 ## Data
