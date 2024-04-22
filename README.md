@@ -1,5 +1,8 @@
 # challenge-3-pyspark
-Learning basics of pyspark as a week 9-10 challenge
+Learning basics of pyspark as a week 9-10 challenge. All results can be seen in pyspark.ipynb jupyter notebook.
+
+## Data
+The only dataset used in this project is a kaggle dataset with Lichess games ([link](https://www.kaggle.com/datasets/datasnaek/chess/data)). It contains information about around 20,000 games with columns describing start time, end time, opening, time control etc.
 
 ## Project scope
 There is no specific goal to this project like building a solution or the best something. The goal is to understand PySpark better and start being somewhat productive with it. This means learning the basics of:
@@ -12,6 +15,3 @@ There is no specific goal to this project like building a solution or the best s
 - more advanced aggregations like rollup, cube etc.
 - window functions
 - Spark SQL
-
-## Data
-The only dataset used in this project is a kaggle dataset with Lichess games ([link](https://www.kaggle.com/datasets/datasnaek/chess/data)). It contains information about around 20,000 games with columns describing start time, end time, opening for both players, game time format etc.
